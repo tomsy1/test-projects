@@ -42,3 +42,4 @@ print(data1)
 print(data1("name"))
 test
 fvgdfg
+asd
